@@ -14,5 +14,3 @@
   
 - 😄 Pronouns: He/Him
 
-
-![Sagnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagnik595&show_icons=true&theme=radical)
