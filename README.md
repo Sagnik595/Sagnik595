@@ -10,6 +10,6 @@
   
 - 💬 Currently learning about Backend Development and Artificial Intelligence
   
-- 📫 How to reach me: Instagram (https://www.instagram.com/sagnik2546/) and Linkedin (https://www.linkedin.com/in/sagnik-sarkar095/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/sagnik2546/) and [Linkedin](https://www.linkedin.com/in/sagnik-sarkar095/)
   
 - 😄 Pronouns: He/Him
