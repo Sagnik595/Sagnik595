@@ -1,0 +1,24 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "A fully functional AI chatbot web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "jest --verbose"
+  },
+  "keywords": ["ai", "chatbot", "openai", "express"],
+  "author": "Sagnik Sarkar",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.78.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
