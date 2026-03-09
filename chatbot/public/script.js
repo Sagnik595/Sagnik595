@@ -56,28 +56,28 @@
   }
 
   function escapeHtml(str) {
-    var div = document.createElement("div");
+    const div = document.createElement("div");
     div.textContent = str;
     return div.innerHTML;
   }
 
   // ── UI Builders ───────────────────────────────────────
   function removeWelcome() {
-    var welcome = chatMessages.querySelector(".welcome-message");
+    const welcome = chatMessages.querySelector(".welcome-message");
     if (welcome) welcome.remove();
   }
 
   function addMessage(role, content) {
     removeWelcome();
 
-    var wrapper = document.createElement("div");
+    const wrapper = document.createElement("div");
     wrapper.className = "message " + role;
 
-    var avatar = document.createElement("div");
+    const avatar = document.createElement("div");
     avatar.className = "avatar";
     avatar.textContent = role === "user" ? "You" : "AI";
 
-    var bubble = document.createElement("div");
+    const bubble = document.createElement("div");
     bubble.className = "bubble";
     bubble.innerHTML = role === "user" ? escapeHtml(content).replace(/\n/g, "<br>") : renderMarkdown(content);
 
@@ -92,14 +92,14 @@
   function addError(text) {
     removeWelcome();
 
-    var wrapper = document.createElement("div");
+    const wrapper = document.createElement("div");
     wrapper.className = "message error bot";
 
-    var avatar = document.createElement("div");
+    const avatar = document.createElement("div");
     avatar.className = "avatar";
     avatar.textContent = "⚠";
 
-    var bubble = document.createElement("div");
+    const bubble = document.createElement("div");
     bubble.className = "bubble";
     bubble.textContent = text;
 
@@ -112,15 +112,15 @@
   function showTyping() {
     removeWelcome();
 
-    var wrapper = document.createElement("div");
+    const wrapper = document.createElement("div");
     wrapper.className = "message bot typing-msg";
     wrapper.id = "typing";
 
-    var avatar = document.createElement("div");
+    const avatar = document.createElement("div");
     avatar.className = "avatar";
     avatar.textContent = "AI";
 
-    var bubble = document.createElement("div");
+    const bubble = document.createElement("div");
     bubble.className = "bubble";
     bubble.innerHTML =
       '<div class="typing-indicator"><span></span><span></span><span></span></div>';
@@ -132,7 +132,7 @@
   }
 
   function hideTyping() {
-    var el = document.getElementById("typing");
+    const el = document.getElementById("typing");
     if (el) el.remove();
   }
 
@@ -150,17 +150,17 @@
     setLoading(true);
 
     try {
-      var body = { message: text, sessionId: sessionId };
-      var key = getApiKey();
+      const body = { message: text, sessionId: sessionId };
+      const key = getApiKey();
       if (key) body.apiKey = key;
 
-      var res = await fetch("/api/chat", {
+      const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(body),
       });
 
-      var data = await res.json();
+      const data = await res.json();
 
       hideTyping();
 
@@ -191,7 +191,7 @@
 
     // Reset UI
     chatMessages.innerHTML = "";
-    var welcomeHtml =
+    const welcomeHtml =
       '<div class="welcome-message">' +
       '<div class="welcome-icon">🤖</div>' +
       "<h2>Welcome to AI Chatbot</h2>" +
@@ -225,7 +225,7 @@
 
   chatForm.addEventListener("submit", function (e) {
     e.preventDefault();
-    var text = messageInput.value.trim();
+    const text = messageInput.value.trim();
     if (!text || isWaiting) return;
     messageInput.value = "";
     messageInput.style.height = "auto";
@@ -237,10 +237,10 @@
 
   // Suggestions
   function bindSuggestions() {
-    var buttons = document.querySelectorAll(".suggestion");
+    const buttons = document.querySelectorAll(".suggestion");
     buttons.forEach(function (btn) {
       btn.addEventListener("click", function () {
-        var msg = this.getAttribute("data-msg");
+        const msg = this.getAttribute("data-msg");
         if (msg && !isWaiting) sendMessage(msg);
       });
     });
@@ -259,7 +259,7 @@
   });
 
   saveKeyBtn.addEventListener("click", function () {
-    var key = apiKeyInput.value.trim();
+    const key = apiKeyInput.value.trim();
     if (key) {
       localStorage.setItem(API_KEY_STORAGE, key);
     } else {

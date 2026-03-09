@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const path = require("path");
+const OpenAI = require("openai");
 
 if (process.env.NODE_ENV !== "test") {
   require("dotenv").config();
@@ -52,7 +53,7 @@ app.post("/api/chat", async (req, res) => {
     ]);
   }
 
-  const history = conversations.get(sid);
+  let history = conversations.get(sid);
   history.push({ role: "user", content: message.trim() });
 
   // Keep a reasonable context window (last 20 messages + system prompt)
@@ -60,12 +61,11 @@ app.post("/api/chat", async (req, res) => {
   if (history.length > maxMessages) {
     const systemMsg = history[0];
     const recent = history.slice(-(maxMessages - 1));
-    history.length = 0;
-    history.push(systemMsg, ...recent);
+    conversations.set(sid, [systemMsg, ...recent]);
+    history = conversations.get(sid);
   }
 
   try {
-    const OpenAI = require("openai");
     const openai = new OpenAI({ apiKey: key });
 
     const completion = await openai.chat.completions.create({
