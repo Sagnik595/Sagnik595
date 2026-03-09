@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const path = require("path");
 const OpenAI = require("openai");
+const rateLimit = require("express-rate-limit");
 
 if (process.env.NODE_ENV !== "test") {
   require("dotenv").config();
@@ -10,8 +11,17 @@ if (process.env.NODE_ENV !== "test") {
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Rate limiter: max 50 requests per minute per IP
+const limiter = rateLimit({
+  windowMs: 60 * 1000,
+  max: 50,
+  standardHeaders: true,
+  legacyHeaders: false,
+});
+
 app.use(cors());
 app.use(express.json());
+app.use(limiter);
 app.use(express.static(path.join(__dirname, "public")));
 
 // Store conversation history per session (in-memory; resets on restart)

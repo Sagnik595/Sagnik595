@@ -8,13 +8,19 @@
     "dev": "node server.js",
     "test": "jest --verbose"
   },
-  "keywords": ["ai", "chatbot", "openai", "express"],
+  "keywords": [
+    "ai",
+    "chatbot",
+    "openai",
+    "express"
+  ],
   "author": "Sagnik Sarkar",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
     "openai": "^4.78.1"
   },
   "devDependencies": {
