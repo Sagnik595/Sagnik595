@@ -21,22 +21,25 @@ A Passionate Full-Stack Developer from India 🇮🇳
 
 <h3 align="left">🌐 Connect With Me</h3>
 
-<p align="left">
+<br/>
 
-<a href="https://linkedin.com/in/sagnik-sarkar095" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="LinkedIn"/>
-</a>
+<div align="center">
 
-<a href="https://www.hackerrank.com/@zues059_cal" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="50" width="50" alt="HackerRank"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=🌐%20Connect%20With%20Me&fontSize=32&fontColor=6e40c9&animation=fadeIn" width="100%"/>
 
-<a href="mailto:sagnik.sarkar095@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" alt="Gmail"/>
-</a>
+<br/>
 
-</p>
+| 💼 Professional | 🏆 Competitive Coding | 📬 Say Hello |
+|:---:|:---:|:---:|
+| [![LinkedIn](https://img.shields.io/badge/Sagnik%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagnik-sarkar095) | [![HackerRank](https://img.shields.io/badge/zues059__cal-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@zues059_cal) | [![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagnik.sarkar095@gmail.com) |
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sagnik-sarkar095&label=Profile+Visits&color=6e40c9&style=for-the-badge" />
+
+</div>
+
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
@@ -173,29 +176,17 @@ A Passionate Full-Stack Developer from India 🇮🇳
 </tr>
 </table>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
+<div align="center">
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=sagnik595&show_icons=true&theme=tokyonight&locale=en"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sagnik595&show_icons=true&theme=tokyonight&locale=en&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik595&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik595&layout=compact&theme=tokyonight"
-/>
+<br/>
 
-</p>
+<img src="https://streak-stats.demolab.com?user=Sagnik595&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik595&theme=tokyonight" 
-alt="sagnik595" 
-/>
-
-</p>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik595&" alt="sagnik595" /></p>
