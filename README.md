@@ -180,13 +180,10 @@ A Passionate Full-Stack Developer from India 🇮🇳
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sagnik595&show_icons=true&theme=tokyonight&locale=en&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik595&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagnik595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sagnik595&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=Sagnik595&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik595&" alt="sagnik595" /></p>
