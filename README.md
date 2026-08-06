@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Sagnik%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20Open%20to%20Collaborate&descAlignY=55&descSize=18"/>
 
 <!-- <a href="https://linkedin.com/in/sagnik-sarkar095"></a> -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+MERN;Learning+Next.js+%2B+AWS+%2B+Docker+%2B+DevOps;Always+down+to+collaborate+on+OSS;Aspiring+to+work+at+FAANG+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+MERN;Learning+Next.js+%2B+AWS+%2B+Docker+%2B+DevOps;Always+down+to+collaborate+on+OSS;Aspiring+to+work+at+FAANG"/>
 
 <br/>
 
