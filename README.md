@@ -77,8 +77,12 @@ reach_me_at: sagnik.sarkar095@gmail.com
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sagnik595&theme=tokyonight&row=1&column=7&margin-w=10"/></div>
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Sagnik595/Sagnik595?style=for-the-badge&color=6e40c9)
+![GitHub stars](https://img.shields.io/github/stars/Sagnik595?style=for-the-badge&color=6e40c9)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sagnik595/Sagnik595?style=for-the-badge&color=6e40c9)
+
+</div>
 <br/>
 
 ## 🐍 Contribution Snake
