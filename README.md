@@ -77,7 +77,7 @@ reach_me_at: sagnik.sarkar095@gmail.com
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sagnik595&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sagnik595&theme=onedark&no-frame=true&row=1&column=7"/>
 </div>
 
 <br/>
