@@ -1,189 +1,118 @@
-<h1 align="center">Hi 👋, I'm Sagnik</h1>
-<h3 align="center">
-A Passionate Full-Stack Developer from India 🇮🇳
-</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik595&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik595" /> </p>
-
-- 🔭 I’m currently working on **a MERN stack project**
-
-- 🌱 I’m currently learning **NextJS, AWS, Docker, Devops**
-
-- 👯 I’m looking to collaborate on **any open source project**
-
-- 🤝 I’m looking for help with **System Design**
-
-- 💬 Ask me about **React JS, Node JS, mongo DB**
-
-- 📫 How to reach me **sagnik.sarkar095@gmail.com**
-
-- ⚡ Fun fact **I aspire to work at FAANG**
-
-<h3 align="left">🌐 Connect With Me</h3>
-
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=60&text=🌐%20Connect%20With%20Me&fontSize=32&fontColor=6e40c9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Sagnik%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20Open%20to%20Collaborate&descAlignY=55&descSize=18"/>
+
+<a href="https://linkedin.com/in/sagnik-sarkar095">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+MERN;Learning+Next.js+%2B+AWS+%2B+Docker+%2B+DevOps;Always+down+to+collaborate+on+OSS;Aspiring+to+work+at+FAANG+🚀"/>
+</a>
 
 <br/>
 
-| 💼 Professional | 🏆 Competitive Coding | 📬 Say Hello |
-|:---:|:---:|:---:|
-| [![LinkedIn](https://img.shields.io/badge/Sagnik%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagnik-sarkar095) | [![HackerRank](https://img.shields.io/badge/zues059__cal-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@zues059_cal) | [![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagnik.sarkar095@gmail.com) |
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sagnik-sarkar095&label=Profile+Visits&color=6e40c9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sagnik595&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/sagnik595?label=Followers&style=for-the-badge&color=6e40c9" alt="followers"/>
 
 </div>
 
 <br/>
-<h3 align="left">Languages and Tools:</h3>
 
-<table>
-<tr>
-<td align="center" width="96">
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-</a>
-<br>C
-</td>
+## 🚀 About Me
 
-<td align="center" width="96">
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
-</a>
-<br>CSS
-</td>
+```yaml
+name: Sagnik Sarkar
+location: India 🇮🇳
+role: Full-Stack Developer
+currently_building: A MERN stack project
+currently_learning: [Next.js, AWS, Docker, DevOps]
+looking_to_collaborate: any open-source project
+looking_for_help_with: System Design
+ask_me_about: [React JS, Node JS, MongoDB]
+fun_fact: "I aspire to work at FAANG"
+reach_me_at: sagnik.sarkar095@gmail.com
+```
 
-<td align="center" width="96">
-<a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
-</a>
-<br>Express
-</td>
+<br/>
 
-<td align="center" width="96">
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-</a>
-<br>Figma
-</td>
-
-<td align="center" width="96">
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
-</a>
-<br>Firebase
-</td>
-
-<td align="center" width="96">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-</a>
-<br>Git
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
-</a>
-<br>HTML
-</td>
-
-<td align="center" width="96">
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-</a>
-<br>Java
-</td>
-
-<td align="center" width="96">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</a>
-<br>JavaScript
-</td>
-
-<td align="center" width="96">
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-</a>
-<br>MongoDB
-</td>
-
-<td align="center" width="96">
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
-</a>
-<br>NodeJS
-</td>
-
-<td align="center" width="96">
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-</a>
-<br>React
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/>
-</a>
-<br>Tailwind
-</td>
-
-<td align="center" width="96">
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-</a>
-<br>TypeScript
-</td>
-
-<td align="center" width="96">
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</a>
-<br>Python
-</td>
-
-<td align="center" width="96">
-<a href="https://postman.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-</a>
-<br>Postman
-</td>
-
-<td align="center" width="96">
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-</a>
-<br>MySQL
-</td>
-
-<td align="center" width="96">
-<a href="https://www.framer.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" height="40" alt="Framer"/>
-</a>
-<br>Framer
-</td>
-</tr>
-</table>
-
-<h3 align="center">📊 GitHub Stats</h3>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagnik595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sagnik595&layout=compact&theme=tokyonight&hide_border=true" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,java,js,ts,python&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma,framer&theme=dark" />
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+**Tools & Platforms — currently leveling up**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,aws,docker,git,postman,vscode&theme=dark" />
+
+</div>
 
 <br/>
-<img src="https://streak-stats.demolab.com?user=Sagnik595&theme=tokyonight&hide_border=true" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagnik595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sagnik595&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Sagnik595&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sagnik595&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sagnik595&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Sagnik595/Sagnik595/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+> To activate this: add the [`snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates the animated snake above from your contribution graph. I've referenced the standard output path; the action will create the `output` branch and file for you on first run.
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Sagnik%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagnik-sarkar095)
+[![HackerRank](https://img.shields.io/badge/zues059__cal-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@zues059_cal)
+[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagnik.sarkar095@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 Quote of the Build
+
+*"Code is like humor. When you have to explain it, it's bad."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
