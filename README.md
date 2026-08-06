@@ -74,7 +74,7 @@ reach_me_at: sagnik.sarkar095@gmail.com
 
 <br/>
 
-## 🏆 Trophies
+## Analytics
 
 <div align="center">
 
@@ -83,16 +83,6 @@ reach_me_at: sagnik.sarkar095@gmail.com
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sagnik595/Sagnik595?style=for-the-badge&color=6e40c9)
 
 </div>
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Sagnik595/Sagnik595/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-> To activate this: add the [`snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates the animated snake above from your contribution graph. I've referenced the standard output path; the action will create the `output` branch and file for you on first run.
-
 <br/>
 
 ## 🌐 Connect With Me
