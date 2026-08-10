@@ -5,7 +5,6 @@
 <!-- <a href="https://linkedin.com/in/sagnik-sarkar095"></a> -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+MERN;Learning+Next.js+%2B+AWS+%2B+Docker+%2B+DevOps;Always+down+to+collaborate+on+OSS;Aspiring+to+work+at+FAANG"/>
 
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=sagnik595&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/sagnik595?label=Followers&style=for-the-badge&color=6e40c9" alt="followers"/>
