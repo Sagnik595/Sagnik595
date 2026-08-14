@@ -21,7 +21,7 @@ name: Sagnik Sarkar
 location: India 🇮🇳
 role: Full-Stack Developer
 currently_building: A MERN stack project
-currently_learning: [Next.js, AWS, Docker, DevOps]
+currently_learning: [Next.js, Docker, DevOps]
 looking_to_collaborate: any open-source project
 looking_for_help_with: System Design
 ask_me_about: [React JS, Node JS, MongoDB]
