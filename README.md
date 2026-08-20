@@ -18,7 +18,7 @@
 
 ```yaml
 name: Sagnik Sarkar
-location: India 🇮🇳
+location: India
 role: Full-Stack Developer
 currently_building: A MERN stack project
 currently_learning: [Next.js, Docker, DevOps]
