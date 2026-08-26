@@ -18,14 +18,14 @@
 
 ```yaml
 name: Sagnik Sarkar
-location: India
+location: India 
 role: Full-Stack Developer
 currently_building: A MERN stack project
 currently_learning: [Next.js, Docker, DevOps]
 looking_to_collaborate: any open-source project
 looking_for_help_with: System Design
 ask_me_about: [React JS, Node JS, MongoDB]
-fun_fact: "I aspire to work at FAANG and be efficient at what I do"
+fun_fact: "I aspire to work at FAANG one day and the best at what I do"
 reach_me_at: sagnik.sarkar095@gmail.com
 ```
 
